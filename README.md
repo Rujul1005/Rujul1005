@@ -3,7 +3,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rujul1005&show_icons=true)
 
-# 👋 Hey, I'm Rujul
+# 👋 Hey, I'm Rujul Varshney
 
 ☁️ Cloud Computing Enthusiast
 🚀 Building real-world projects using AWS
