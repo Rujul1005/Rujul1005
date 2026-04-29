@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey, I'm Rujul
 
-<!--
-**Rujul1005/Rujul1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Cloud Computing Enthusiast
+🚀 Building real-world projects using AWS
+📚 Currently learning Serverless & DevOps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* ☁️ AWS (S3, CloudFront)
+* 🌐 HTML, CSS, JavaScript
+* ⚙️ Git & GitHub
+
+---
+
+## 🚀 Projects
+
+### 🌐 AWS Static Website Hosting
+
+🔗 https://d2rz6fkpqq87k1.cloudfront.net
+Deployed a static website using AWS S3 and CloudFront with CDN and HTTPS.
+
+---
+
+## 📈 What I'm Learning
+
+* AWS Lambda & API Gateway
+* CI/CD (GitHub Actions)
+* Docker & Cloud Deployment
+
+---
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/Rujul1005
+* Discord: yourusername
+
+---
+
+## ⚡ Fun Fact
+
+I turn coffee ☕ into cloud projects ☁️
