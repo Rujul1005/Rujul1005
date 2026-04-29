@@ -3,6 +3,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rujul1005&show_icons=true)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rujul1005&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 # 👋 Hey, I'm Rujul Varshney
 
 ☁️ Cloud Computing Enthusiast
