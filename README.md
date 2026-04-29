@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hey+I'm+Rujul Varshney" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0E75B6&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey%2C+I'm+Rujul+Varshney" />
 </p>
 
 ☁️ Cloud Computing Enthusiast
