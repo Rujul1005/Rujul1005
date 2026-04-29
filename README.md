@@ -1,4 +1,6 @@
-# 👋 Hey, I'm Rujul Varshney
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hey+I'm+Rujul;Cloud+Computing+Enthusiast;AWS+%7C+S3+%7C+CloudFront;Building+Real+World+Projects" />
+</p>
 
 ☁️ Cloud Computing Enthusiast
 🚀 Building real-world projects using AWS
