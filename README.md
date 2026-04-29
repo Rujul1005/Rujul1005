@@ -1,3 +1,6 @@
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Cloud](https://img.shields.io/badge/Focus-Cloud%20Computing-blue)
+
 # 👋 Hey, I'm Rujul
 
 ☁️ Cloud Computing Enthusiast
