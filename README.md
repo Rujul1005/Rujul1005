@@ -26,13 +26,3 @@
 ## ⚡ Fun Fact
 
 I turn coffee ☕ into cloud projects ☁️
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Cloud](https://img.shields.io/badge/Focus-Cloud%20Computing-blue)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rujul1005&show_icons=true)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rujul1005&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-</p>
-
