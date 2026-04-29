@@ -1,6 +1,8 @@
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Cloud](https://img.shields.io/badge/Focus-Cloud%20Computing-blue)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rujul1005&show_icons=true)
+
 # 👋 Hey, I'm Rujul
 
 ☁️ Cloud Computing Enthusiast
