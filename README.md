@@ -11,6 +11,7 @@
 - 🎯 Goal: Build scalable things that *don’t randomly break at 3AM*  
 
 ---
+
 ## 🛠️ Tech Stack
 
 * ☁️ AWS (S3, API Gateway, Lambda, DynamoDB)
@@ -19,7 +20,6 @@
 * 🧠 REST APIs & JSON Integration
 
 ---
-
 
 ## 📈 What I'm Learning
 
