@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0E75B6&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey%2C+I'm+Rujul+Varshney" />
 </p>
 
-☁️ Cloud Computing Enthusiast
-☁️ Aspiring Cloud Engineer focused on building scalable, serverless applications using AWS
-🚀 Hands-on experience with real-world cloud deployments and automation
-📚 Passionate about learning modern cloud architecture and DevOps 
-
 ---
 
 ## 🌌 About Me  
@@ -14,8 +9,6 @@
 - 🧠 Learning something new every day (sometimes the hard way)  
 - 🛠️ I like turning ideas → actual working stuff  
 - 🎯 Goal: Build scalable things that *don’t randomly break at 3AM*  
-
----
 
 ---
 ## 🛠️ Tech Stack
