@@ -34,4 +34,6 @@
 * I enjoy debugging… until the bug disappears on its own
 * I break things just to learn how to scale them 🔥---
 
+---
+
 ⭐ If you like my work, consider starring a repo — it actually means a lot!
