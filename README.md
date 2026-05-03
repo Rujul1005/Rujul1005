@@ -5,31 +5,31 @@
 ---
 
 ## 🌌 About Me
-- ☁️ Focused on Cloud Computing, DevOps & Distributed Systems
-- 🛠️ Building real-world projects using AWS (not just tutorials)
-- 🔄 Experienced with end-to-end workflows: frontend → backend → deployment
-- 🚀 Exploring automation, scalability & production-ready systems
-- 🎯 Goal: Build systems that scale smoothly and don’t wake me up at 3AM
+- Focused on Cloud Computing, DevOps & Distributed Systems
+- Building real-world projects using AWS (not just tutorials)
+- Experienced with end-to-end workflows: frontend → backend → deployment
+- Exploring automation, scalability & production-ready systems
+- Goal: Build systems that scale smoothly and don’t wake me up at 3AM
 
 ---
 
 ## 🛠️ Tech Stack
 
-☁️ AWS: S3, CloudFront, API Gateway, Lambda, DynamoDB, CodePipeline, CodeBuild, EC2
-🌐 Frontend: HTML, CSS, JavaScript
-⚙️ DevOps Tools: Git, GitHub, CI/CD Pipelines
-🐳 Containers: Docker
-🔗 Backend & APIs: REST APIs, JSON, Serverless Architecture
+- AWS: S3, CloudFront, API Gateway, Lambda, DynamoDB, CodePipeline, CodeBuild, EC2
+- Frontend: HTML, CSS, JavaScript
+- DevOps Tools: Git, GitHub, CI/CD Pipelines
+- Containers: Docker
+- Backend & APIs: REST APIs, JSON, Serverless Architecture
 
 ---
 
 ## 📈 What I'm Learning
 
-☁️ Advanced Serverless Architectures & event-driven systems
-🚀 CI/CD Automation (GitHub + AWS pipelines)
-🐳 Containerization & Deployment using Docker on cloud
-⚙️ Infrastructure & Deployment Strategies (EC2, automation)
-🔐 Cloud Security & IAM best practices
+- Advanced Serverless Architectures & event-driven systems
+- CI/CD Automation (GitHub + AWS pipelines)
+- Containerization & Deployment using Docker on cloud
+- Infrastructure & Deployment Strategies (EC2, automation)
+- Cloud Security & IAM best practices
 
 ---
 
