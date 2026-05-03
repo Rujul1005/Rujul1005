@@ -35,7 +35,7 @@
 
 ## ⚡ Fun Fact
 * I enjoy debugging… until the bug disappears on its own
-* I break things just to learn how to scale them 🔥---
+* I break things just to learn how to scale them 🔥
 
 ---
 
