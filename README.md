@@ -5,11 +5,11 @@
 ---
 
 ## 🌌 About Me
-☁️ Focused on Cloud Computing, DevOps & Distributed Systems
-🛠️ Building real-world projects using AWS (not just tutorials)
-🔄 Experienced with end-to-end workflows: frontend → backend → deployment
-🚀 Exploring automation, scalability & production-ready systems
-🎯 Goal: Build systems that scale smoothly and don’t wake me up at 3AM
+- ☁️ Focused on Cloud Computing, DevOps & Distributed Systems
+- 🛠️ Building real-world projects using AWS (not just tutorials)
+- 🔄 Experienced with end-to-end workflows: frontend → backend → deployment
+- 🚀 Exploring automation, scalability & production-ready systems
+- 🎯 Goal: Build systems that scale smoothly and don’t wake me up at 3AM
 
 ---
 
